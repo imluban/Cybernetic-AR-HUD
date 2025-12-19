@@ -1,7 +1,7 @@
 """
 Cybernetic AR HUD - Real-Time Face & Hand Tracking
-Created by: Tuba Khan (@tubakhxn)
-GitHub: https://github.com/tubakhxn
+Created by: Luban Noor (@imluban)
+GitHub: https://github.com/imluban
 
 A futuristic cyberpunk-style AR/HUD overlay system that tracks 
 face, hands, and body in real-time using MediaPipe and OpenCV.
@@ -168,4 +168,5 @@ class CyborgARSystem:
 
 if __name__ == "__main__":
     system = CyborgARSystem()
+
     system.run()
