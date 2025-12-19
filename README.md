@@ -54,12 +54,15 @@ a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and han
 ### Quick Setup
 
 1. **Clone/Download** the Project
+
    **Option A: Using Git (recommended)**
+
    Open your terminal or command prompt and run:
    ```bash
    git clone https://github.com/imluban/Cybernetic-AR-HUD.git
    cd Cybernetic-AR-HUD
    ```
+
    **Option B: Download ZIP**
    Click Code → Download ZIP on GitHub and extract it to a folder.
 
@@ -82,13 +85,16 @@ a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and han
    pip install pygame==2.5.2
    ```
 
-   This aligns with what the README specifies — these libraries power the face/hand tracking and the HUD overlays. 
+   This aligns with what the README specifies, these libraries power the face/hand tracking and the HUD overlays. 
    
 
 3. **Run the application:**
+
+   Once dependencies are installed:
    ```bash
    python main.py
    ```
+   This launches the augmented reality HUD system. You need a webcam connected (laptop camera or USB webcam).
 
 ## 🎯 Usage
 
@@ -300,4 +306,5 @@ Want to make this even more awesome? Contributions are welcome!
 
 
 ⭐ **Don't forget to star this repo if you found it awesome!** ⭐
+
 
