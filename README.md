@@ -1,23 +1,23 @@
 # 🤖 Cybernetic AR HUD - Real-Time Face & Hand Tracking
 
-**Created by [@tubakhxn](https://github.com/tubakhxn)** 
+**Created by [@imluban](https://github.com/imluban)** 
 
-A futuristic cyberpunk-style AR/HUD overlay system that tracks your face and hand gestures in real-time, just like in the reference images!
+a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and hand gestures in real-time, just like in the reference images!
 
 ---
 
 ## 👨‍💻 **Creator & Owner**
 
-**Made with ❤️ by [Tuba Khan (@tubakhxn)](https://github.com/tubakhxn)**
+**Made with ❤️ by [Luban Noor (@imluban)](https://github.com/imluban)**
 
-- **GitHub:** [@tubakhxn](https://github.com/tubakhxn)
-- **Project Owner:** Tuba Khan
-- **Original Creator:** [@tubakhxn](https://github.com/tubakhxn)
+- **GitHub:** [@imluban](https://github.com/imluban)
+- **Project Owner:** Luban Noor
+- **Original Creator:** [@imluban](https://github.com/imluban)
 
 > 🚨 **Please give credit when using or sharing this project!** 
 > 
 > If you use this code, fork it, or create content with it, please mention:
-> - **Original Creator:** [@tubakhxn](https://github.com/tubakhxn)
+> - **Original Creator:** [@imluban](https://github.com/imluban)
 > - **GitHub Repository:** [Link to this repo]
 > - **Give it a ⭐ if you found it awesome!**
 
@@ -253,7 +253,7 @@ If you encounter issues:
 This project is **open source** but please respect the creator's work:
 
 - ✅ **Fork it** and give it a ⭐
-- ✅ **Share it** with proper attribution to [@tubakhxn](https://github.com/tubakhxn)
+- ✅ **Share it** with proper attribution to [@imluban](https://github.com/imluban)
 - ✅ **Modify it** for your own projects (with credit)
 - ✅ **Learn from it** and build something even cooler!
 
@@ -264,7 +264,7 @@ This project is **open source** but please respect the creator's work:
 
 ## 🙏 **Credits & Acknowledgments**
 
-- **Original Concept & Implementation:** [@tubakhxn](https://github.com/tubakhxn)
+- **Original Concept & Implementation:** [@imluban](https://github.com/imluban)
 - **AI Computer Vision:** MediaPipe by Google
 - **Graphics Processing:** OpenCV
 - **Inspired by:** Cyberpunk 2077, Ghost in the Shell, The Matrix
@@ -279,12 +279,7 @@ Want to make this even more awesome? Contributions are welcome!
 4. Submit a pull request
 5. Get featured as a contributor!
 
-**Please maintain attribution to [@tubakhxn](https://github.com/tubakhxn) as the original creator.**
-
 ---
 
-**Made with ❤️ by [@tubakhxn](https://github.com/tubakhxn) for cyberpunk enthusiasts and AR developers!**
-
-*"I would rather be a cyborg than a goddess." - Donna Haraway*
 
 ⭐ **Don't forget to star this repo if you found it awesome!** ⭐
