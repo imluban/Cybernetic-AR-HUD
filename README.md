@@ -47,7 +47,7 @@ a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and han
 ## 🛠️ Installation
 
 ### Prerequisites
-- Python 3.9+ 
+- Python 3.9-3.11
 - Webcam/Camera
 - Windows/Mac/Linux
 
@@ -306,6 +306,7 @@ Want to make this even more awesome? Contributions are welcome!
 
 
 ⭐ **Don't forget to star this repo if you found it awesome!** ⭐
+
 
 
 
