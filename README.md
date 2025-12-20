@@ -60,6 +60,7 @@ a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and han
    Open your terminal or command prompt and run:
    ```bash
    git clone https://github.com/imluban/Cybernetic-AR-HUD.git
+
    cd Cybernetic-AR-HUD
    ```
 
@@ -306,6 +307,7 @@ Want to make this even more awesome? Contributions are welcome!
 
 
 ⭐ **Don't forget to star this repo if you found it awesome!** ⭐
+
 
 
 
