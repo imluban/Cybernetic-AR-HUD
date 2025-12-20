@@ -204,7 +204,7 @@ pip install -r requirements.txt
 - **RAM:** 4GB+ recommended  
 - **Camera:** Any USB webcam or built-in camera
 - **OS:** Windows 10+, macOS 10.14+, Ubuntu 18.04+
-- **Python:** 3.9, 3.10, 3.11, or 3.12
+- **Python:** 3.9, 3.10, or 3.11
 
 ## 🚨 Known Issues
 
@@ -257,7 +257,7 @@ The system creates a cyberpunk-style AR overlay that matches the reference image
 If you encounter issues:
 
 1. Check camera permissions
-2. Verify Python version (3.9+)
+2. Verify Python version (3.9-3.11)
 3. Try different lighting conditions
 4. Restart the application
 5. Check system requirements
@@ -308,6 +308,7 @@ Want to make this even more awesome? Contributions are welcome!
 
 
 ⭐ **Don't forget to star this repo if you found it awesome!** ⭐
+
 
 
 
