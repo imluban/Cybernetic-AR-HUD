@@ -65,6 +65,7 @@ a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and han
    ```
 
    **Option B: Download ZIP**
+
    Click Code → Download ZIP on GitHub and extract it to a folder.
 
 
@@ -86,7 +87,7 @@ a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and han
    pip install pygame==2.5.2
    ```
 
-   This aligns with what the README specifies, these libraries power the face/hand tracking and the HUD overlays. 
+   This aligns with what the README specifies, these libraries power the       face/hand tracking and the HUD overlays. 
    
 
 3. **Run the application:**
@@ -307,6 +308,7 @@ Want to make this even more awesome? Contributions are welcome!
 
 
 ⭐ **Don't forget to star this repo if you found it awesome!** ⭐
+
 
 
 
