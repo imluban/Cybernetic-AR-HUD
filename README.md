@@ -2,7 +2,7 @@
 
 **Created by [@imluban](https://github.com/imluban)** 
 
-a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and hand gestures in real-time, just like in the reference images!
+a futuristic cyberpunk-style AR/HUD overlay system that tracks your face and hand gestures in real-time!
 
 ---
 
@@ -306,5 +306,6 @@ Want to make this even more awesome? Contributions are welcome!
 
 
 ⭐ **Don't forget to star this repo if you found it awesome!** ⭐
+
 
 
